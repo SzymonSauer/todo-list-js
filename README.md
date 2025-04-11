@@ -24,7 +24,7 @@ Project is created with:
 ![Example screenshot](./img/todo2.jpg)
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/form-validator/.
+You can see this project on-line using link: https://szymonsauer.github.io/todo-list-js/
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
