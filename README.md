@@ -2,6 +2,7 @@
 
 This is example of simple form written in javascript. 
 Each form of the field is checked (for example password length and appropriate format of the email address).
+https://szymonsauer.github.io/todo-list-js/
 
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -24,8 +25,9 @@ Project is created with:
 ![Example screenshot](./img/todo2.jpg)
 
 ## Setup
-You can see this project on-line using link: 
+You can see this project on-line using link: https://szymonsauer.github.io/todo-list-js/
 To run this project locally download the code and run in the Visual Studio Code program. 
+
 
 ## Status
 Project is finished.
