@@ -20,7 +20,8 @@ Project is created with:
 * JavaScript
 
 ## Screenshots
-![Example screenshot](./img/screen.jpg)
+![Example screenshot](./img/todo3.jpg)
+![Example screenshot](./img/todo2.jpg)
 
 ## Setup
 You can see this project on-line using link: 
