@@ -20,15 +20,14 @@ Project is created with:
 * JavaScript
 
 ## Screenshots
-![Example screenshot](./img/todo3.jpg)
-![Example screenshot](./img/todo2.jpg)
+![Example screenshot](./img/screen.jpg)
 
 ## Setup
-You can see this project on-line using link: https://szymonsauer.github.io/todo-list-js/
+You can see this project on-line using link: 
 To run this project locally download the code and run in the Visual Studio Code program. 
 
 ## Status
 Project is finished.
 
 ## Inspiration
-Project based on Udemy course '[2021] 10 projektów w czystym JavaScript cz. 1'
+Project based on MMCSchool course 'Kurs Tworzenia Stron WWW cz. 3' 
